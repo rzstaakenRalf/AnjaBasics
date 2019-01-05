@@ -10,6 +10,8 @@ namespace AnjaBasics
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Hallo Anja");
+            Console.ReadKey();
         }
     }
 }
